@@ -1,5 +1,7 @@
 # Seafoam-in-S3AIR-main
 
+![Wakey_Wakey_Seafoam](https://user-images.githubusercontent.com/118873369/210184045-021230f9-13d3-41b8-9b23-1748e944797e.png)
+
 A genderless squid was chillin in their night clothes, playing Sonic 3 & Knuckles on a human artifact called a "SEGA Mega Drive". They pass out, obviously (it's 1 in the morning), and wake up on Angel Island! Turns out something pulled them in to be the hero, with Knuckles fearful of a new threat, and mistakes Seafoam for an intruder! Seafoam must make it through Angel Island, and its harsh climates to (hopefully) find a way home!
 
 Set after the events of Sonic's story, and before Knux's...
