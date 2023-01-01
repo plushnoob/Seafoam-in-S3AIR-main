@@ -1,0 +1,25 @@
+As Seafoam will be releasing on ECSU, Seafoam gets DLC for their campaign, acheivements, etc.
+
+HOW TO DOWNLOAD SEAFOAM WHEN THEY RELEASE:
+MAIN MOD:
+  1. Go to the CODE button, and click it.
+  2. Press "Download as ZIP"
+  3. When downloaded, place the ZIP folder in your S3AIR mods folder. DO NOT EXTRACT. (S3AIR can indeed read ZIP files)
+  4. Turn off all mods except ECSU. You can then toy around with what mods work or not.
+
+UPDATING THE MOD:
+  STYLE 1:
+    1. Repeat the MAIN MOD download instructions (1 - 2).
+    2. Go to S3AIR's mod folder and delete the previous version.
+    3. Place new version of mod in the folder.
+  
+  STYLE 2:
+    1. Go to Releases, and download the latest update.
+    2. Grab your previous version, and unzip the file.
+    3. Copy the files from the latest release and replace any old ones.
+ 
+ DLC CONTENT:
+  1. Go to Releases and pick anything that has "DLC" in it.
+  2. Unzip the file, and place the mod folder in your S3AIR mods folder.
+  3. In S3AIR, place any DLC above Seafoam, and have the base mod for that DLC active.
+    (EX: Seafoam's Campaign requires ECSU and Seafoam to be enabled.)
