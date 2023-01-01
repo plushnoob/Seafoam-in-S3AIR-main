@@ -15,3 +15,5 @@ Release Date: When it's done.
 
 Check out Seafoam's Doc! Get more common updates to plans and view progress!
 https://docs.google.com/document/d/1gIXr6BJQLeCuu5uknoGedFDmtXcUsW7Cm5Nrjc4oBt4/edit?usp=sharing
+
+<img width="736" alt="smol" src="https://user-images.githubusercontent.com/118873369/210184053-5b4b80a1-a5ed-4f97-98bc-b992834941c4.png">
