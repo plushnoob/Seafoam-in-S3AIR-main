@@ -8,9 +8,11 @@ Hiro
 SPRITES
 Hiro
 (Pending?) Mia
+(Pending?) Benkoopa
 
 SCRIPTS (But there are none, yet)
 iCloudius - Everything else
+Plushnoob - Renderhooking
 Hiro - Json Work
 
 MUSIC (But there is none, yet)
