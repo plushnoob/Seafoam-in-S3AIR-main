@@ -27,7 +27,7 @@ SLOT01 - ???
 SLOT02 - ???
 SLOT03 - ???
 SLOT04 - ???
-SLOT05 - (Pending?) Samppa
+SLOT05 - Samppa
 
 SPECIAL THANKS
 3AIR Discord - Feedback
