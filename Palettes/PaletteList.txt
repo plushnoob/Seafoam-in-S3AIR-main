@@ -1,0 +1,44 @@
+01 - Sonic 3:
+Palette: Reusage of Sonic's
+Super Palette: Strawberry Lemonade
+Note - Seafoam's default palette.
+
+02 - Aqua
+Palette: Aqua, more accurate to Seafoam's appearence
+Super Palette: Fever Dream
+Note: Fever Dream is a pink palette based on Seafoam's real ink color.
+
+02 - Fever Dream
+Palette: P i n k, like Seafoam's real ink color/their mother's ink color
+Super Palette: Azure, based on their father.
+Note: Just a bonus
+
+03 - Coral
+Palette: Coral Red, like their friend.
+Super Palette: Hazel, like their friend's fiance.
+Note: F is for friends who do stuff together.
+
+04 - Carribean
+Palette: Carribean, based off the palette from SRB2K
+Super Palette: Golden Yellow, based off Super Sonic's palette from SRB2.
+Note: SRB2 funni
+
+05 - Bits and Pieces
+Palette: BnP, using the Undertale Bits and Pieces palette.
+Super Palette: BnP, using the Undertale Bits and Pieces palette.
+Note: OohhohhOhhoohOOOOOOOOOOOOOOOhooohooo-oh-oh-oh story of Undertale
+
+06 - Starfall
+Palette: SatFS-styled Palette
+Super Palette: Supernova
+Note: This game is overrated at times.
+
+07 - Majin
+Palette: Majin Blue
+Super Palette: Majin Red
+Note: Hi, iCloudius
+
+08 - Custom
+Note: To create a custom palette, you need to be sure to have the same amount of color as the others. Additionally, be sure that the last colors in your palette are
+those of your super form!
+By default, this palette makes Seafoam use Knuckles' palette.
